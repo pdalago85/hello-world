@@ -1,2 +1,5 @@
 # hello-world
-Intro to GitHub
+
+Hi Guys!
+
+Intro to Github is quite fun.
